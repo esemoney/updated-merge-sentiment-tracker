@@ -67,6 +67,10 @@ Eseoghene Efekodo
 Create a pip-installable package instead of using brittle paths.
 This is a more scalable solution using a `setup.py` file and a `__init__`.py file
 
+## blockers, further work
+
+Figure out a way to filter tweets with a specific text in twitter bio (like #btc in bio et al) with tweepy
+
 ## helpful links
 
 <https://nono.ma/environment-variable-python-notebook-os-environ-get>
@@ -78,3 +82,5 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 <https://medium.com/besedo-engineering/sentiment-analysis-part-3-data-annotation-d0845d1a8a1b>
 
 <https://medium.com/besedo-engineering/sentiment-analysis-part-4-a-survey-of-sentiment-analysis-methods-2ba84759f3d>
+
+<https://appdividend.com/2020/12/10/how-to-convert-python-list-to-csv-file/>
