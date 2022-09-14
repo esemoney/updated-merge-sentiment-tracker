@@ -62,10 +62,19 @@ Eseoghene Efekodo
 10. Analyzing the evolution of the polarity through time.
 11. Summary of the project.
 
+## how my code can be better
+
+Create a pip-installable package instead of using brittle paths.
+This is a more scalable solution using a `setup.py` file and a `__init__`.py file
+
 ## helpful links
 
 <https://nono.ma/environment-variable-python-notebook-os-environ-get>
+
 <https://medium.com/besedo-engineering/sentiment-analysis-part-1-a-friendly-guide-to-sentiment-analysis-963e09d9fc9b>
+
 <https://medium.com/besedo-engineering/sentiment-analysis-part-2-how-to-choose-pre-annotated-datasets-for-sentiment-analysis-d79736e8c147>
+
 <https://medium.com/besedo-engineering/sentiment-analysis-part-3-data-annotation-d0845d1a8a1b>
+
 <https://medium.com/besedo-engineering/sentiment-analysis-part-4-a-survey-of-sentiment-analysis-methods-2ba84759f3d>
