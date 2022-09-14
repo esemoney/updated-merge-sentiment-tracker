@@ -69,7 +69,7 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 
 ## further work (research)
 
-- analyze miner subreddits r/ethermining and r/gpumining to check sentiments before and after the merge.
+- analyze miner subreddits r/ethermining and r/gpumining to check sentiments before and after the merge. probably use praw for reddit data.
 - here, i use AFINN. run analyses on the text data here with other sentiment analysis packages (nltk, vader, bayes filtering? et all) and then compare difference in results.
 
 ## blockers, further work (technical)
