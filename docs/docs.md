@@ -1,6 +1,7 @@
 # merge sentiment tracker
 
-Eseoghene Efekodo
+**Eseoghene Efekodo**
+14th September, 2022.
 
 ## about the project
 
