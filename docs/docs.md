@@ -34,8 +34,7 @@ Eseoghene Efekodo
   detection.
 
 - Sentiment analysis refers to the process of
-  computationally identifying and catego‐
-  rizing emotional polarity expressed in an
+  computationally identifying and categorising emotional polarity expressed in an
   utterance—e.g., to determine the relative
   negativity or positivity of the writer or
   speaker’s feelings.
