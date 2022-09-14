@@ -67,7 +67,11 @@ Eseoghene Efekodo
 Create a pip-installable package instead of using brittle paths.
 This is a more scalable solution using a `setup.py` file and a `__init__`.py file
 
-## blockers, further work
+## further work (research)
+
+- analyze miner subreddits r/ethermining and r/gpumining to check sentiments before and after the merge.
+
+## blockers, further work (technical)
 
 - Figure out a way to filter tweets with a specific text in twitter bio (like #btc in bio et al) with tweepy.
 - Exclude tweets with links to manage spam😭
@@ -86,3 +90,5 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 <https://medium.com/besedo-engineering/sentiment-analysis-part-4-a-survey-of-sentiment-analysis-methods-2ba84759f3d>
 
 <https://appdividend.com/2020/12/10/how-to-convert-python-list-to-csv-file/>
+
+<https://www.linuxtut.com/en/3417c91cc111e4f16ef3/>
