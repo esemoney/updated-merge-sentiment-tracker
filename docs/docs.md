@@ -71,6 +71,7 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 
 - Figure out a way to filter tweets with a specific text in twitter bio (like #btc in bio et al) with tweepy.
 - Exclude tweets with links to manage spam😭
+- move my exports from my scripts folder to the data folder and still work around these paths!
 
 ## helpful links
 
