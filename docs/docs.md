@@ -78,6 +78,10 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 - Exclude tweets with links to manage spam😭
 - move my exports from my scripts folder to the data folder and still work around these paths!
 
+## updates at 6:08am wat
+
+1. r/gpumining is shut down. link - <https://www.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/?utm_source=share&utm_medium=web2x&context=3>
+
 ## helpful links
 
 <https://nono.ma/environment-variable-python-notebook-os-environ-get>
