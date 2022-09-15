@@ -87,7 +87,7 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 
 done!
 results are at the-merge-tweets.txt
-
+confirm if list data = txt to list converted?
 ## helpful links
 
 <https://nono.ma/environment-variable-python-notebook-os-environ-get>
