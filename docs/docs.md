@@ -83,6 +83,8 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 
 1. r/gpumining is shut down. link - <https://www.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/?utm_source=share&utm_medium=web2x&context=3>
 
+### right now, i want to grab tweets from the past one hour with "the merge" or "ethereum merge" or "#ethereummerge"
+
 ## helpful links
 
 <https://nono.ma/environment-variable-python-notebook-os-environ-get>
