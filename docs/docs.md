@@ -78,12 +78,15 @@ This is a more scalable solution using a `setup.py` file and a `__init__`.py fil
 - Exclude tweets with links to manage spam😭
 - move my exports from my scripts folder to the data folder and still work around these paths!
 - only reference my afinn txt file from data!
-
+- 
 ## updates at 6:08am wat
 
 1. r/gpumining is shut down. link - <https://www.reddit.com/r/gpumining/comments/xecer8/the_end_of_rgpumining/?utm_source=share&utm_medium=web2x&context=3>
 
 ### right now, i want to grab tweets from the past one hour with "the merge" or "ethereum merge" or "#ethereummerge"
+
+done!
+results are at the-merge-tweets.txt
 
 ## helpful links
 
